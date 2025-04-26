@@ -46,8 +46,6 @@ Guide:
 - ***1*** for Midterm Activities
 - ***2*** for Final term Activities
 - No.***X***, ***"X"*** represents activity for that term
-- **[LA]** for Laboratory Assessments
-- **[LC]** for Lecture Assessments
 
 | #  | Title                                   | Lesson/Topic                      | Filename |
 |----|-----------------------------------------|------------------------------------|----------|
