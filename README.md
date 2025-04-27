@@ -55,8 +55,8 @@ Guide:
 | 2.2 | Finals 1                        | Module 4 - Functions  | Finals2A.py     |
 | 2.1 | Finals 1                        | Module 4 - Functions  | Finals1.py     |
 | 1.6 | Midterm Exam                    | Midterm Exam | MidtermExam.py     |
-| 1.5 | Laboratory Activity 2           | Module 2 - Decision Making Statements | Midterm3B.py     |
-| 1.4 | Laboratory Activity 2           | Module 2 - Decision Making Statements | Midterm3A.py     |
+| 1.5 | Laboratory Activity 2           | Module 2 - Decision Making Statements | Midterm3A&B.py     |
+| 1.4 | Laboratory Activity 2           | Module 2 - Decision Making Statements | Midterm3A&B.py     |
 | 1.3 | Laboratory Activity 1           | Module 1 - Python Programming | Midterm3.py     |
 | 1.2 | Laboratory Activity 1           | Module 1 - Python Programming | Midterm2.py     |
 | 1.1 | Laboratory Activity 1           | Module 1 - Python Programming | Midterm1.py     |

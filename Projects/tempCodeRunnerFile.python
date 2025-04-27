@@ -1,0 +1,46 @@
+# Classes and Objects
+
+#practice1 Create class: name, age, city
+#class Person:
+#    def __init__(person, name, age, city):
+#        person.name = name
+#        person.age = age
+#        person.city = city
+#
+#p1 = Person("kean", 19, "dasmarinas")
+#print(p1.name)
+#print(p1.age)
+#print(p1.city)
+
+#practice2 Make method prints object information
+#class Car:
+#    def __init__(car, brand, model, year):
+#        car.brand = brand
+#        car.model = model
+#        car.year = year
+#    def describe_car(car1):
+#        print("Car brand: ", car1.brand) ## wrong [object].class <- (wrong name right side)
+#        print("Car model: ", car1.model)
+#        print("Car year: ", car1.year) 
+#car1 = Car("Toyota", "Camry", 2023)
+#car1.describe_car() ## dont call directly like "describe_car" but like "[object].describe_car"
+
+#practice3 Multiple objects
+
+class Dog:
+    def __init__(dog, name, breed, age):
+        dog.name = name
+        dog.breed = breed
+        dog.age = age
+    
+    def print_class(dog):
+        print("Name: ", dog.name)
+        print("Breed: ", dog.breed)
+        print("Age: ", dog.age) 
+dog1 = Dog("Buddy", "Golden Retriever", 5)
+dog2 = Dog("Max", "Labrador Retriever", 3)
+
+print("Dog 1: ")
+dog1.print_class() ##_nameClass_._function
+print("Dog 2: ")
+dog2.print_class() ##same in this one
